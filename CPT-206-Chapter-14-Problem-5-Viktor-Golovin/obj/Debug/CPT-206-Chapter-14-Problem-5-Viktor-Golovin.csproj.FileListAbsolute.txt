@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\bin\Debug\ProductDB.mdf
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\bin\Debug\ProductDB_log.ldf
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\bin\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.exe.config
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\bin\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.exe
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\bin\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.pdb
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT_206_Chapter_14_Problem_5_Viktor_Golovin.Form1.resources
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT_206_Chapter_14_Problem_5_Viktor_Golovin.Properties.Resources.resources
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.exe
+C:\Users\vikto\source\repos\CPT-206-Chapter-14-Problem-5-Viktor-Golovin\obj\Debug\CPT-206-Chapter-14-Problem-5-Viktor-Golovin.pdb
