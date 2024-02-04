@@ -1,0 +1,6 @@
+Aaron Rash
+
+When running the program and clicking on the product description search, it will only pull up items where i have fully typed out the description. I do not believe this is inherently wrong, but if I were to want to look up multiple items with "Shirt" as part of the discription, I would be unable to becasue I am not typeing up the whole description. A easy fix to this would be to add .Contains in line 76 after where product.Description. This would allow the user to look up a description containing parts of it rather than the full description.
+
+Overall I like the layout of everything, and your code is well commented. On the form though make sure to either include a description of what these buttons do or a tool tip to help inform the user what each button does. The more than: and Less than: buttons are clear that its more than or less than something, but if I didnt already know that this was refering to the Units_on_Hand column, It would be unclear as to what I am searching mor or less than from.
+Maybe include more group boxes grouping the buttons together with one clear description of what everything does.
