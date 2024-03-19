@@ -1,0 +1,12 @@
+Viktor Golovin code review by Aaron Rash
+
+Good use of comments, your code is easy to read and follow
+
+problem 4: Works great no issues
+
+problem #5: Program crashes if either textbox (morethan & lessthan) is not filled out/filled incorrectly.
+	just add some error handling by throwing the text parsing (line 40-41) inside a try/catch or an if statement
+	I'd also reccomend adding a 'clear' or 'reset' button, but that wasnt required
+	otherwise program works great
+	
+problem 6: Same as problem #5, if min/max are left blank or filled incorrectly it crashes. Just add error handling and it works perfect.
